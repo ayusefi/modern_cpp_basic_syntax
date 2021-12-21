@@ -1,3 +1,4 @@
 /home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/build/CMakeFiles/rebuild_cache.dir
+/home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/build/CMakeFiles/task_2.dir
 /home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/build/CMakeFiles/edit_cache.dir
-/home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/build/CMakeFiles/task1.dir
+/home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/build/CMakeFiles/task_1.dir

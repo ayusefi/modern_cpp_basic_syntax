@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdullah/cpp_learning/modern_cpp/modern_cpp_basic_syntax/modern_cpp_basic_syntax/task_1.cpp
+iostream
+-
+random
+-
+stdio.h
+-
+
